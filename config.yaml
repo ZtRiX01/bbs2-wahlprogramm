@@ -28,6 +28,12 @@ outputs:
     - JSON
 
 params:
+  defaultTheme: auto
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
   editPost:
     URL: "https://google.com/"
     Text: "Suggest Changes" # edit text
@@ -35,6 +41,8 @@ params:
 
   assets:
     disableHLJS: true
+  
+  menu-style: "side-navigation"
 
 markup:
   goldmark:
@@ -42,7 +50,3 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
-
-permalinks:
-  posts: /:year/:month/:day/:slug/
-  parties: /parties/:slug/
