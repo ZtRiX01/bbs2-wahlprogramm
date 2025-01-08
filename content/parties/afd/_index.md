@@ -2,10 +2,7 @@
 title: "Alternative für Deutschland"
 description: "Zusammenfassung der Alternative für Deutschland"
 weight: 1
-draft: true
-cover: 
-    images: images/msg.png
-    caption: "Logo der Partei DiePartei"
+draft: false
 ---
 
-Die Partei ist eine Partei in Deutschland
+Die Alternative für Deutschland (AFD) ist eine Partei in Deutschland
