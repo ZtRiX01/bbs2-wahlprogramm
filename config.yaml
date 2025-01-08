@@ -1,0 +1,44 @@
+baseURL: 'http://example.org/'
+title: 'Deutsche Wahlprogramme 2025'
+theme: 'paper-mod'
+
+enableInlineShortcodes: true
+enableEmoji: true
+mainsections: ["parties"]
+
+defaultContentLanguage: 'de'
+
+languages:
+  de:
+    languageName: "Deutsch"
+    weight: 1
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Parteien
+          url: /parties
+          weight: 5
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  editPost:
+    URL: "https://google.com/"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true
+
+  assets:
+    disableHLJS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
