@@ -1,6 +1,6 @@
 baseURL: 'https://philipptrashman.github.io/bbs2-wahlprogramm/'
 title: 'Deutsche Wahlprogramme 2025'
-theme: 'hugo-theme-techdoc'
+theme: 'hugo-theme-relearn'
 
 enableInlineShortcodes: true
 enableEmoji: true
@@ -26,6 +26,18 @@ languages:
 params:
   custom_background_color: null
   custom_font_color: null
+  linkTitle: "Niedersachsen Wahlen 2025"
+  showVisitedLinks: false
+  themeVariant:
+  - auto:
+    - zen-light
+    - zen-dark
+    identifier: zen-auto
+    name: Zen Light/Dark
+  - identifier: zen-light
+  - identifier: zen-dark
+    
+  
   menu_style: slide-menu
   menu_exclusions: 
     - archives,
