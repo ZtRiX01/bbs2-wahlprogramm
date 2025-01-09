@@ -1,6 +1,6 @@
 baseURL: 'https://philipptrashman.github.io/bbs2-wahlprogramm/'
 title: 'Deutsche Wahlprogramme 2025'
-theme: 'paper-mod'
+theme: 'hugo-theme-techdoc'
 
 enableInlineShortcodes: true
 enableEmoji: true
@@ -10,41 +10,41 @@ defaultContentLanguage: 'de'
 
 languages:
   de:
-    languageName: "Deutsch"
+    languageName: Deutsch
     weight: 1
     menu:
       main:
-        - name: Home
+        - identifier: home
+          name: Home
           url: /
           weight: 1
-        - name: Parteien
+        - identifier: parties
+          name: Parteien
           url: /parties
           weight: 5
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-
 params:
-  defaultTheme: auto
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowAllPagesInArchive: true
-  ShowPageNums: true
-  ShowToc: true
-  editPost:
-    URL: "https://google.com/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true
+  custom_background_color: null
+  custom_font_color: null
+  menu_style: slide-menu
+  menu_exclusions: 
+    - archives,
+    - archive
+    - tags
+    - blog
+    - entry
+    - post
+    - posts
 
   assets:
     disableHLJS: true
-  
-  menu-style: "side-navigation"
+
 
 markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+      
   goldmark:
     renderer:
       unsafe: true
