@@ -1,5 +1,5 @@
 baseURL: 'https://philipptrashman.github.io/bbs2-wahlprogramm/'
-title: 'Deutsche Wahlprogramme 2025'
+title: 'Wahl Helfer 2025'
 theme: 'hugo-theme-relearn'
 
 enableInlineShortcodes: true
@@ -26,7 +26,6 @@ languages:
 params:
   custom_background_color: null
   custom_font_color: null
-  linkTitle: "Niedersachsen Wahlen 2025"
   showVisitedLinks: false
   themeVariant:
   - auto:
