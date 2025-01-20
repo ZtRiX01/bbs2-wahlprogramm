@@ -5,7 +5,7 @@ draft: false
 ---
 ## In die Zukunft wachsen -- ökologisch und ökonomisch
 
-**A. Eine starke Wirtschaft für sichere Jobs**
+### A. Eine starke Wirtschaft für sichere Jobs
 
 -   ***Wettbewerbsfähigkeit und Investitionen:***
 
@@ -45,7 +45,7 @@ draft: false
     -   Stärkung des Technologietransfers durch die Deutsche Agentur für
         Transfer und Innovation (DATI).
 
-**B. Ein modernes und digitales Land**
+### B. Ein modernes und digitales Land
 
 -   ***Digitalisierung der Verwaltung:***
 
@@ -67,7 +67,7 @@ draft: false
     -   Einführung von Open-Source-Strategien und Vereinfachung der
         Datenschutzregulierung.
 
-**C. Ein stabiles und sicheres Klima**
+### C. Ein stabiles und sicheres Klima
 
 -   ***Klimaneutralität und erneuerbare Energien:***
 
@@ -87,7 +87,7 @@ draft: false
     -   Einführung einer sozialen Komponente, um Kosten für Mieter*innen*
         und Hauseigentümer*innen* zu senken.
 
-**D. Mobilität und Verkehr**
+### D. Mobilität und Verkehr
 
 -   ***Öffentlicher Verkehr:***
 
@@ -97,7 +97,7 @@ draft: false
     -   Förderung von Elektromobilität durch Kaufanreize und Ausbau der
         Ladeinfrastruktur.
 
-**E. Naturschutz und Kreislaufwirtschaft**
+### E. Naturschutz und Kreislaufwirtschaft
 
 -   ***Schutz der Ökosysteme:***
 
@@ -111,7 +111,7 @@ draft: false
 
 ## Einfach dabei sein -- fair und bezahlbar
 
-**A. Gute Arbeit, faire Löhne und bezahlbares Wohnen**
+### A. Gute Arbeit, faire Löhne und bezahlbares Wohnen
 
 -   ***Arbeitsmarkt:***
 
@@ -125,7 +125,7 @@ draft: false
     -   Begrenzung von Mietsteigerungen, Förderung des sozialen
         Wohnungsbaus und einer nachhaltigen Neubau-Strategie.
 
-**B. Bildung und Chancen**
+### B. Bildung und Chancen
 
 -   ***Bildungsinvestitionen:***
 
@@ -138,7 +138,7 @@ draft: false
     -   Stärkung der Grundfinanzierung von Hochschulen und Förderung des
         Wissenschaftstransfers.
 
-**C. Lebensphasenübergreifende Unterstützung**
+### C. Lebensphasenübergreifende Unterstützung
 
 -   ***Familienpolitik:***
 
@@ -156,7 +156,7 @@ draft: false
 
 ## Frieden in Freiheit sichern -- innen und außen
 
-**A. Demokratie und Gesellschaft**
+### A. Demokratie und Gesellschaft
 
 -   ***Stärkung der Demokratie:***
 
@@ -170,7 +170,7 @@ draft: false
 
     -   Investitionen in öffentliche Räume und kulturelle Vielfalt.
 
-**B. Innere Sicherheit**
+### B. Innere Sicherheit
 
 -   ***Kriminalitätsbekämpfung:***
 
@@ -179,7 +179,7 @@ draft: false
 
     -   Verstärkter Schutz vor Desinformation und Cyberangriffen.
 
-**C. Europäische Union und Außenpolitik**
+### C. Europäische Union und Außenpolitik
 
 -   ***Europäische Integration:***
 
@@ -197,7 +197,7 @@ draft: false
     -   Reform des internationalen Handels zugunsten nachhaltiger
         Standards.
 
-**Schlüsselprojekte und Finanzierungsstrategie**
+### Schlüsselprojekte und Finanzierungsstrategie
 
 -   ***Deutschlandfonds:***
 
