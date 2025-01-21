@@ -4,24 +4,42 @@ weight: 1
 draft: false
 ---
 
-1. Bezahlbares Wohnen für alle
+Arbeit und soziale Gerechtigkeit
+•	Mindestlohn auf 15 Euro pro Stunde erhöhen.
+•	Einführung einer viertägigen Arbeitswoche ohne Gehaltskürzung.
+•	Abschaffung prekärer Beschäftigungsverhältnisse (z. B. Leiharbeit, befristete Verträge).
+Klimaschutz
+•	Ziel: 100 % erneuerbare Energien bis 2035.
+•	Ausbau des ÖPNV und der Bahnverbindungen, statt in Autobahnen zu investieren.
+•	Flugverbote für Kurzstrecken unter 500 km oder bei Zugfahrten bis 5 Stunden.
+•	Klimaschutzabgabe für Großkonzerne, die stark zum Klimawandel beitragen.
+Wohnen
+•	Bundesweiter Mietendeckel und Verbot von Staffelmieten.
+•	Sechs Jahre Mietpreisstopp zur Entlastung der Mieter:innen.
+•	Förderung sozialen Wohnungsbaus und Schutz vor Verdrängung.
+Rente
+•	Anhebung des Rentenniveaus auf 53 %.
+•	Einführung einer Mindestrente von 1.310 Euro.
+Bessere Infrastruktur
+•	Mindestens stündliche Bus- und Bahnverbindungen in ländlichen Regionen.
+Frieden und Abrüstung
+•	Abrüstung und Verbot von Waffenexporten in Krisenregionen.
+•	Förderung diplomatischer Lösungen und Rückzug der Bundeswehr aus Auslandseinsätzen.
+•	Unterstützung von Friedensinitiativen, z. B. in der Ukraine.
+•	Ablehnung von US-Mittelstreckenraketen in Deutschland.
+Flucht und Migration
+•	Einführung einer menschenwürdigen Asylpolitik ohne Abschiebungen in Krisengebiete.
+•	Bekämpfung von Fluchtursachen durch Abrüstung und gerechte Handelsabkommen.
+•	Förderung der Integration (z. B. Sprachkurse, Berufsausbildung).
+Gegen Rechts
+•	Klare Haltung gegen Rechtsextremismus und Rassismus.
+•	Förderung von Demokratieprojekten und Strafverfolgung rechtsextremer Netzwerke.
+Preissteigerungen
+•	Abschaffung der Mehrwertsteuer auf Grundnahrungsmittel und ÖPNV.
+•	Preisbegrenzungen für Strom, Heizen und Lebensmittel.
+•	Staatliche Entlastung für Haushalte durch Sozialleistungen.
+Steuergerechtigkeit
+•	Einführung von Vermögens- und Milliardärssteuern.
+•	Entlastung kleiner und mittlerer Einkommen.
+•	Höhere Besteuerung von großen Konzernen und Reichen.
 
-Die Linke möchte die steigenden Mieten stoppen. Dafür planen sie einen Mietendeckel, der Mieterhöhungen für sechs Jahre verbietet. In Städten mit besonders hohen Mieten sollen diese sogar gesenkt werden. Außerdem wollen sie mehr günstige Wohnungen bauen, damit jeder ein bezahlbares Zuhause finden kann. 
-WELT
-
-2. Klimaschutz und umweltfreundliche Mobilität
-
-Um die Umwelt zu schützen, setzt sich Die Linke für ein Verbot von Kurzstreckenflügen ein, wenn es eine gute Zugverbindung gibt. Privatjets und große Luxusyachten sollen ebenfalls verboten werden, um den CO₂-Ausstoß zu reduzieren. 
-TAGESSCHAU.DE
-
-3. Gerechte Bildungschancen
-
-Die Linke möchte, dass alle Jugendlichen die gleichen Chancen auf Bildung haben. Dafür fordern sie mehr Investitionen in Schulen und kostenlose Bildung von der Kita bis zur Universität. Zudem sollen Ausbildungsplätze besser bezahlt und die Bedingungen für Auszubildende verbessert werden.
-
-4. Faire Löhne und soziale Sicherheit
-
-Die Partei setzt sich für einen Mindestlohn von 15 Euro pro Stunde ein, damit niemand für wenig Geld hart arbeiten muss. Außerdem wollen sie eine Grundsicherung einführen, die ohne Sanktionen auskommt, sodass jeder ein würdevolles Leben führen kann.
-
-5. Mehr Mitbestimmung für Jugendliche
-
-Die Linke möchte das Wahlalter auf 16 Jahre senken, damit junge Menschen früher mitbestimmen können, was in der Politik passiert. Sie setzen sich auch für mehr Jugendbeteiligung in politischen Entscheidungen ein, damit die Interessen der jungen Generation besser vertreten sind.
